@@ -1,2 +1,5 @@
-i don't have much reason to make this look pretty yet
-if i'm applying for a job and you see this that means i need to update it since i haven't since i was 16
+# baltdev
+
+Hi! I'm a hobbyist programmer who's been doing it for probably much longer than is healthy.
+
+I'm 19, and I go by they/them pronouns. Please respect them.
