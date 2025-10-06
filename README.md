@@ -1,5 +1,5 @@
 # baltdev
 
-Hi! I'm a hobbyist programmer who's been doing it for probably much longer than is healthy.
+Hi! I'm a hobbyist programmer with a decade of experience at 20 years old.
 
-I'm 19, and I go by they/them pronouns. Please respect them.
+I go by they/them pronouns. Please respect them.
